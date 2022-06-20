@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="progressColor" format="color|reference" />
+    <attr name="solidColor" format="color|reference" />
+    <declare-styleable name="RadiusProgressView">
+        <attr name="solidColor" />
+        <attr name="progressColor" />
+        <attr name="android:progress" />
+        <attr name="android:max" />
+        <attr name="android:radius" />
+    </declare-styleable>
+</resources>
