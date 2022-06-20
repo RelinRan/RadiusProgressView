@@ -20,12 +20,12 @@ repositories {
 2./app/build.grade
 ```
 dependencies {
-	implementation 'com.github.RelinRan:RadiusProgressView:2022.6.20.1'
+	implementation 'com.github.RelinRan:RadiusProgressView:2022.6.20.2'
 }
 ```
 # xml
 ~~~
-    <com.androidx.wiget.RadiusProgressView
+    <com.androidx.widget.RadiusProgressView
         android:layout_width="match_parent"
         android:layout_height="20dp"
         android:max="100"
